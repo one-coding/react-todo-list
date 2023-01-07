@@ -1,0 +1,19 @@
+.button {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #c5dfff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.darkButton {
+  background-color: #404756;
+  color: #fff;
+}

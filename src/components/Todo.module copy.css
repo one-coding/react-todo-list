@@ -1,0 +1,17 @@
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+
+  width: 60%;
+  height: 70%;
+  background-color: #fff;
+  border-radius: 1rem;
+
+  box-shadow: 9px 11px 22px -1px rgba(0, 0, 0, 0.34);
+  -webkit-box-shadow: 9px 11px 22px -1px rgba(0, 0, 0, 0.34);
+  -moz-box-shadow: 9px 11px 22px -1px rgba(0, 0, 0, 0.34);
+}
